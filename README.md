@@ -6,13 +6,13 @@ Following the decision of [User Voice](https://uservoice.com) to sunset their fr
 
 The FAQ now lives in the [wiki](https://github.com/toepoke/community/wiki).
 
-If the FAQ doesn't answer your query, please raise a [question](https://github.com/toepoke/community/issues/new?labels=question)
+If the FAQ doesn't answer your query, please raise a [question](https://github.com/toepoke/community/issues/new?labels=question).
 
 ## Suggestions
 
 Improvements and feedback have always been welcome and this isn't changing.
 
-Please raise your suggestion as an [issue](https://github.com/toepoke/community/issues/new?labels=suggestion), with the _label_ **suggestion**
+Please raise your suggestion as an [issue](https://github.com/toepoke/community/issues/new?labels=suggestion), with the _label_ **suggestion**.
 
 ## Bugs
 
