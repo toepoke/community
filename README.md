@@ -14,6 +14,8 @@ Improvements and feedback have always been welcome and this isn't changing.
 
 Please raise your suggestion as an [issue](https://github.com/toepoke/community/issues/new?labels=suggestion), with the _label_ **suggestion**.
 
+If you like an existing suggestion, please give a thumbs up as _vote_.  Existing ideas ported from UserVoice have a number of ❤ to show how many votes the suggestion had originally.
+
 ## Bugs
 
 Bugs can also be raised as an [issue](https://github.com/toepoke/community/issues/new?labels=bug), with a _label_ of **bug**.
