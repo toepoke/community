@@ -1,6 +1,6 @@
 # [toepoke](https://toepoke.co.uk) community website
 
-Following the decision of [User Voice](https://uservoice.com) to sunset their free plan we've had to move the suggestions and <abbr title="Frequently Asked Questions">FAQ</abbr> somewhere else. [Github](https://github.com) seems a natural choice as that's where the source code for toepoke lives (not in this repository I must add).
+Following the decision of [User Voice](https://uservoice.com) to sunset their free plan in July 2024 we've had to move the suggestions and <abbr title="Frequently Asked Questions">FAQ</abbr> somewhere else. [Github](https://github.com) seems a natural choice as that's where the source code for toepoke lives (not in this repository I must add).
 
 ## FAQ
 
