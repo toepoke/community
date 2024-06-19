@@ -6,15 +6,17 @@ Following the decision of [User Voice](https://uservoice.com) to sunset their fr
 
 The FAQ now lives in the [wiki](https://github.com/toepoke/community/wiki).
 
-If the FAQ doesn't answer your query, please raise a [question](https://github.com/toepoke/community/issues/new?labels=question).
+If the FAQ doesn't answer your query, please raise a [question](https://github.com/toepoke/toepoke.community/discussions/categories/q-a).
 
 ## Suggestions
 
 Improvements and feedback have always been welcome and this isn't changing.
 
-Please raise your suggestion as an [issue](https://github.com/toepoke/community/issues/new?labels=suggestion), with the _label_ **suggestion**.
+Please raise your [idea](https://github.com/toepoke/toepoke.community/discussions/categories/ideas), opening your suggestion for discussion with other members.
 
-If you like an existing suggestion, please give a thumbs up as _vote_.  Existing ideas ported from UserVoice have a number of ❤ to show how many votes the suggestion had originally.
+Up vote 👍🏻 or down vote 👎🏻 existing ideas, this gives us guidance on what should be address next.
+
+Existing ideas ported from UserVoice have a number of ❤ to show how many votes the suggestion had originally, and are tagged as [ported-from-user-voice](https://github.com/toepoke/toepoke.community/discussions/categories/ideas?discussions_q=category%3AIdeas+label%3Aported-from-user-voice).
 
 ## Bugs
 
