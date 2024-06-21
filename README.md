@@ -27,3 +27,7 @@ If you prefer you can raise a bug by [contacting us](https://toepoke.co.uk/about
 ## Forum
 
 Heads over to the [general forum](https://github.com/toepoke/community/discussions/categories/general) to chat with other _toepokers_ about, well, anything you like!
+
+## Annoncements
+
+Keep up to date with the latest [toepoke](https://toepoke.co.uk) releases and news in the [announcements](https://github.com/toepoke/community/discussions/categories/announcements) section. 
