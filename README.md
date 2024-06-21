@@ -1,6 +1,6 @@
 # [toepoke](https://toepoke.co.uk) community website
 
-Following the decision of [User Voice](https://uservoice.com) to sunset their free plan in July 2024 we've had to move the suggestions and <abbr title="Frequently Asked Questions">FAQ</abbr> somewhere else. [Github](https://github.com) seems a natural choice as that's where the source code for toepoke lives (not in this repository I must add).
+Welcome to the [toepoke](https://toepoke.co.uk) community website.  Here you'll find answers to <abbr title="Frequently Asked Questions">FAQ</abbr>, raise suggestions, and [chat with fellow toepokers](https://github.com/toepoke/community/discussions/categories/general).
 
 ## FAQ
 
@@ -24,4 +24,6 @@ Bugs can also be raised as an [issue](https://github.com/toepoke/community/issue
 
 If you prefer you can raise a bug by [contacting us](https://toepoke.co.uk/about.aspx/contact) instead.  Indeed this is recommended if you need to share personal data in order to resolve the issue.
 
+## Forum
 
+Heads over to the [general forum](https://github.com/toepoke/community/discussions/categories/general) to chat with other _toepokers_ about, well, anything you like!
